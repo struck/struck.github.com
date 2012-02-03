@@ -13,10 +13,10 @@ title : Struck in Binary
 tagline: Site Tagline
 author :
   name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  email : nerds@struckaxiom.com
+  github : struck
+  twitter : struck
+  feedburner : struck
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
